@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: rgb(19, 206, 190);
+}
+img{
+    width: 65%;
+    cursor: not-allowed;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: no-drop;
+}
